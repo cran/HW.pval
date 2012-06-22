@@ -1,0 +1,17 @@
+376d3daae8698140e07815c3552e371c *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+f77230c4e647e5fadbcf1e98f283d3f3 *R/HW.cond.R
+88b1d06d501c90fd803832c8c6212de5 *R/HW.plain.R
+7fea0c4d18f2c4debbd6fef0888ec40a *R/HW.pval.R
+a70297151c6f0d4513be1c247e278efe *R/create.model.R
+e0d2a910ef476359d40bb5f584253c5d *R/test.chisq.R
+6a8f86dd199c0515799b8bbfb9d5623b *R/test.gsq.R
+249cc481cb52ece77b896b80179369e7 *R/test.rms.R
+5aad1cf7132658d260294b2331771ba9 *man/HW.cond.Rd
+b205db4efd199fabfb2b8467bd8d5438 *man/HW.plain.Rd
+a51e6d00ffa577c69ef9bca4e041dc58 *man/HW.pval-package.Rd
+09911e17108bd807021b0bb1c8ac687c *man/HW.pval.Rd
+7f51dfdca0005d5c41b7cd11a6733b00 *man/create.model.Rd
+b00a348777b1e07f32042adc7aec8b2a *man/test.chisq.Rd
+637c5cc719f5390c2979cc507c36b8e8 *man/test.gsq.Rd
+c778aa4c39f191f10e4384a5e4347586 *man/test.rms.Rd
